@@ -1,3 +1,4 @@
+- Teddy
 - Alex
 - Jordan
 - Taylor
